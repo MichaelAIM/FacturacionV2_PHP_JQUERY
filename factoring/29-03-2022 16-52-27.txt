@@ -1,0 +1,43 @@
+Registro Publico Electronico de Transferencia de Credito
+========================================================
+
+La cesion que se detalla a continuacion ha sido anotada en el Registro.
+
+Tengase presente que de acuerdo a la ley 19.983, se entiende que la cesion
+ha sido puesta en conocimiento del deudor el dia habil siguiente a aquel 
+en que ella aparezca anotada en el Registro.
+
+----------------------------------------------------------------------------
+
+Rut Envio              : 76772596-5
+Identificador de Envio : 7040666898
+Fecha de Recepcion     : 29/03/2022 12:08:10
+Estado del Envio       : EOK - Anotacion de Cesion Aceptada, Envio Aceptado
+
+
+Detalle de Cesion Electronica de Credito
+========================================
+
+Documento Cedido
+----------------
+FACTURA ELECTRONICA N° 24446 - Monto Total: $ 170765
+Emisor  : 76772596-5  MEDICINAE SPA
+Receptor: 61606000-7  SERVICIO DE SALUD DE ARICA
+Fecha Emision: 2022-03-16
+
+Cedente
+-------
+Cedido por:  76772596-5  MEDICINAE SPA
+Direccion: DUQUE DE KENT 0433    eMail: mauricio@grupocega.cl
+
+Cesionario
+----------
+Cedido a:  97030000-7  Banco Estado
+Direccion: Alameda 1111    eMail: confirming@bancoestado.cl
+
+Cesion
+------
+Seq: 1    Fecha de la Cesion: 2022-03-29 12:08:09
+Declaracion Jurada: Si
+Monto Cedido: $ 170765    Ultimo Vencimiento: 2022-04-14
+Otras Condiciones: SIN INFORMACION

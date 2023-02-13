@@ -1,0 +1,43 @@
+Registro Publico Electronico de Transferencia de Credito
+========================================================
+
+La cesion que se detalla a continuacion ha sido anotada en el Registro.
+
+Tengase presente que de acuerdo a la ley 19.983, se entiende que la cesion
+ha sido puesta en conocimiento del deudor el dia habil siguiente a aquel 
+en que ella aparezca anotada en el Registro.
+
+----------------------------------------------------------------------------
+
+Rut Envio              : 77195281-K
+Identificador de Envio : 7010697472
+Fecha de Recepcion     : 22/03/2022 13:22:50
+Estado del Envio       : EOK - Anotacion de Cesion Aceptada, Envio Aceptado
+
+
+Detalle de Cesion Electronica de Credito
+========================================
+
+Documento Cedido
+----------------
+FACTURA ELECTRONICA N° 433 - Monto Total: $ 356988
+Emisor  : 77195281-K  COMERCIAL Y SERVICIOS K.Y.R SPA
+Receptor: 61606000-7  SERVICIO DE SALUD DE ARICA
+Fecha Emision: 2022-03-21
+
+Cedente
+-------
+Cedido por:  77195281-K  COMERCIAL Y SERVICIOS K.Y.R SPA
+Direccion: PJE BERQUELIO 1666    eMail: fzamorano@banpro.cl
+
+Cesionario
+----------
+Cedido a:  76163106-3  Banpro
+Direccion: Sin Direcci?n    eMail: fzamorano@banpro.cl
+
+Cesion
+------
+Seq: 1    Fecha de la Cesion: 2022-03-22 13:22:44
+Declaracion Jurada: Si
+Monto Cedido: $ 356988    Ultimo Vencimiento: 2022-05-05
+Otras Condiciones: SIN INFORMACION
